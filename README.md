@@ -1,4 +1,4 @@
-# Sistemi i Menaxhimit të Kërkimeve Shkencore  UMIBRs_
+# Sistemi i Menaxhimit të Kërkimeve Shkencore  UMIBRs
 
 **Universiteti "Isa Boletini" në Mitrovicë**  
 Sistemi i Menaxhimit të Kërkimeve Shkencore – Dokumenti i Specifikimeve  
