@@ -94,7 +94,7 @@ Një sistem web i cili ofron:
 ## Teknologjitë
 
 **Frontend**
-- React.js (TypeScript)
+- React.js (JavaScript)
 
 **Backend**
 - Node.js (Express.js / NestJS)
