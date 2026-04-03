@@ -51,7 +51,7 @@ Një sistem web i cili ofron:
 ## User Roles
 
 - Researcher
-- komisioni per vleresimin e veprimtarise shkencore -
+- komisioni per vleresimin e veprimtarise shkencore 
 - Admin
 - keshilli drejtues
 - Vice Rector
