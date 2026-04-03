@@ -51,7 +51,7 @@ Një sistem web i cili ofron:
 ## User Roles
 
 - Kërkues
-- Koordinator i Departamentit
+- Komisioni per vlersimin  e 
 - Stafi i Zyrës së Kërkimeve
 - Punonjës Financiar
 - Zëvendës Rektor
