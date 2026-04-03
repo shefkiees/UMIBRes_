@@ -50,12 +50,11 @@ Një sistem web i cili ofron:
 
 ## User Roles
 
-- Kërkues
-- Komisioni per vlersimin  e 
-- Stafi i Zyrës së Kërkimeve
-- Punonjës Financiar
-- Zëvendës Rektor
-- Administrator Sistemi
+- Researcher
+- komisioni per vleresimin e veprimtarise shkencore -
+- Admin
+- keshilli drejtues
+- Vice Rector
 
 ---
 
